@@ -25,8 +25,8 @@ Note: 2 Factor Auth must be enabled on user@gmail.com
 
 1. Visit https://myaccount.google.com/apppasswords as user@gmail.com
 1. Choose 'Mail' for app
-1. Choose Other under device and enter "smtp for user@example.com"
-1. Copy the password somewhere temporary (clipboard is fine)
+1. Choose Other under device and enter "smtp for alternate froms"
+1. Copy the password somewhere temporary (clipboard is fine, but you can reuse this for more accounts later)
 1. Visit https://mail.google.com/mail/#settings/accounts as user@gmail.com
 1. Under "Send mail as" click "Add another email address"
 1. Enter your user@example.com address details
